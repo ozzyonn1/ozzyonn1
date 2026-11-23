@@ -14,6 +14,16 @@ Junior Software Engineer. I build and maintain web applications, with a focus on
 - Career Essentials in GitHub Professional Certificate, GitHub (2025)
 - Practical GitHub Copilot, LinkedIn Learning (2025)
 
+## Projects
+
+**FlyBalance**: web app for team planning: capacity and workload, performance reviews, compensation and budget tracking. Role-based access, multi-tenant data isolation, Ukrainian and English UI. Private repository.
+
+Stack: TypeScript, Next.js, React, NestJS, TypeORM, PostgreSQL, Stripe, Docker, Jest, GitHub Actions.
+
+**Pebble**: iOS home screen widget with a small animated character. It picks random events and slowly builds something of its own over time. Built with Scriptable (JavaScript). In progress.
+
+Stack: JavaScript, Scriptable.
+
 ## Academic Projects
 
 Coursework and analysis projects from my studies.
