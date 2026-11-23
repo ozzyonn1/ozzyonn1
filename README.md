@@ -16,6 +16,8 @@ Junior Software Engineer. I build and maintain web applications, with a focus on
 
 ## Academic Projects
 
+Coursework and analysis projects from my studies.
+
 | Project | Description | Stack |
 |---|---|---|
 | [E-commerce-revenue](https://github.com/ozzyonn1/E-commerce-revenue) | Revenue, cohort and campaign ROI analysis | SQL, Power BI |
